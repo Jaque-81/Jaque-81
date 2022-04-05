@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaque-81
 - 👀 I’m interested in learn and learn and teach. Teaching is a way to learn more.
-- 🌱 I’m currently learning Pythona and JavaScript. 
+- 🌱 I’m currently learning Python, JavaScript, C, PHP. 
 - 📫 How to reach me: https://www.instagram.com/jaque.li.ma/
 
 <!---
