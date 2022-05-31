@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaque-81
 - 👀 I’m interested in learn and learn and teach. Teaching is a way to learn more.
-- 🌱 I’m currently learning Python, JavaScript, C, PHP. 
+- 🌱 I’m currently learning JavaScript, C, PHP. 
 - 📫 How to reach me:  https://www.linkedin.com/in/jaqueline-lima-4839b5167/
 
 <div align="center">
