@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, C, PHP. 
 - 📫 How to reach me:  https://www.linkedin.com/in/jaqueline-lima-4839b5167/
 
-<img src = "https://user-images.githubusercontent.com/59448111/171960806-6976af8d-6f3c-4a9c-96d1-24b7b27e5c6d.png" width='100px' align-items= 'center'/>
+<img src = "https://user-images.githubusercontent.com/59448111/171960806-6976af8d-6f3c-4a9c-96d1-24b7b27e5c6d.png" width='100px' style="text-align:center"/>
 
 <div align="center">
   <a href="https://github.com/Jaque-81">
