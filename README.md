@@ -14,7 +14,7 @@
 </div>
   
 <div align="center">
-  <img src = "https://user-images.githubusercontent.com/59448111/171960806-6976af8d-6f3c-4a9c-96d1-24b7b27e5c6d.png" width='300px' />
+  <img src = "https://user-images.githubusercontent.com/59448111/171964704-3334b58a-37c4-475f-a3dd-5a18ac55505a.png" width='250px' />
 </div>
 
 <div align="center">
@@ -23,4 +23,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaque-81&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  
+
+
