@@ -4,6 +4,9 @@
 <div>
   <a href="https://www.linkedin.com/in/jaqueline-lima-4839b5167/">
   <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    
+  <a href="jaqueline.lima.jpl@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
   
 <div align="center">
