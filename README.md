@@ -2,6 +2,7 @@
 - 🚀 Ainda procurando meu lugar.
 - 🌱 Estou me dedicando à JavaScript e Flutter ultimamente. Mas ainda faço algumas atividades pequenas em Java, PHP e C.  
 
+
 <div>
   <a href="https://www.linkedin.com/in/jaqueline-lima-4839b5167/">
   <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
