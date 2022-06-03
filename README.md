@@ -3,7 +3,7 @@
 - 📫 Contato: https://www.linkedin.com/in/jaqueline-lima-4839b5167/
 <div>
   <a href="https://www.linkedin.com/in/jaqueline-lima-4839b5167/">
-  <img https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
+  <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
   
 <div align="center">
